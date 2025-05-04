@@ -17,6 +17,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "prisma": "^6.7.0",
     "turbo": "^2.5.2"
+  },
+  "dependencies": {
+    "dev-blogger": "file:"
   }
 }
